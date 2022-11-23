@@ -1,2 +1,2 @@
 # pixelcloud
-Repository for the website pixelcloud
+Repository for the website pixelcloud. 
